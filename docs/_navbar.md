@@ -1,5 +1,5 @@
 - Translations
-  - [:cn: 中文](/zh-cn/)
-  - [:de: Deutsch](/de-de/)
-  - [:uk: English](/)
-  - [:es: Spanish](/es-es/)
+  - [:cn: 中文](https://docsify.js.org/#/zh-cn/)
+  - [:de: Deutsch](https://docsify.js.org/#/de-de/)
+  - [:uk: English](https://docsify.js.org/#/)
+  - [:es: Spanish](/)
