@@ -2,11 +2,11 @@
 
 # docsify <small>4.6.10</small>
 
-> A magical documentation site generator.
+> Un generador mágico de sitios de documentación.
 
-* Simple and lightweight (~19kB gzipped)
-* No statically built html files
-* Multiple themes
+* Simple y liviano (~19kB gzipped)
+* No genera archivos HTML estáticos
+* Multiples Diseños
 
 [GitHub](https://github.com/QingWei-Li/docsify/)
-[Get Started](#docsify)
+[Empezar](#docsify)
