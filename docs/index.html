@@ -3,7 +3,7 @@
 
 <head>
   <meta charset="UTF-8">
-  <title>docsify</title>
+  <title>docsify :es:</title>
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <link rel="stylesheet" href="//unpkg.com/docsify/themes/vue.css">
@@ -37,12 +37,12 @@
       plugins: [
         function (hook, vm) {
           hook.beforeEach(function (html) {
-            var url = 'https://github.com/QingWei-Li/docsify/blob/master/' + vm.route.file
-            var editHtml = '[:memo: Edit Document](' + url + ')\n'
+            var url = 'https://github.com/SidVal/docsify-es/blob/master/' + vm.route.file
+            var editHtml = '[:memo: Editar Documento](' + url + ')\n'
             return editHtml
               + html
               + '\n\n----\n\n'
-              + 'Last modified {docsify-updated} '
+              + 'Última modificación {docsify-updated} '
               + editHtml
           })
         }
