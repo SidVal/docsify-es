@@ -1,3 +1,5 @@
+[![logo](docs/_media/icon.svg)](https://docsify-es.js.org)
+
 # docsify-es.js.org
 
 🃏 Un generador mágico de sitios de documentación.
