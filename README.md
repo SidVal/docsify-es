@@ -1,4 +1,4 @@
-# docsify-es
+# docsify-es.js.org
 
 🃏 Un generador mágico de sitios de documentación.
 
