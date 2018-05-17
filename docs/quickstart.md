@@ -1,30 +1,30 @@
-# Quick start
+# Inicio Rápido
 
-!> Este archivo aún no está traducido al español, estamos traduciendo... si gustas, puedes ayudar.
+!> Esta página aún no está traducido al español, estamos traduciendo... si gustas, puedes ayudar.
 
-It is recommended to install `docsify-cli` globally, which helps initializing and previewing the website locally.
+Se recomienda instalar `docsify-cli` globalmente, lo que ayuda a inicializar y obtener una vista previa del sitio web localmente.
 
 ```bash
 npm i docsify-cli -g
 ```
 
-## Initialize
+## Inicializar 
 
-If you want to write the documentation in the `./docs` subdirectory, you can use the `init` command.
+Si desea escribir la documentación en el subdirectorio `./docs`, puede usar el comando `init`.
 
 ```bash
 docsify init ./docs
 ```
 
-## Writing content
+## Escribir contenido
 
-After the `init` is complete, you can see the file list in the `./docs` subdirectory.
+Después de que se complete `init`, puede ver la lista de archivos en el subdirectorio `./docs`.
 
-* `index.html` as the entry file
-* `README.md` as the home page
-* `.nojekyll` prevents GitHub Pages from ignoring files that begin with an underscore
+* `index.html` como el archivo de entrada
+* `README.md` como la página de inicio (la principal)
+* `.nojekyll` impide que las páginas de GitHub ignoren los archivos que comienzan con un guión bajo
 
-You can easily update the documentation in `./docs/README.md`, of course you can add [more pages](more-pages.md).
+Puede actualizar fácilmente la documentación en `./docs/README.md`, por supuesto puede agregar [más páginas](more-pages.md).
 
 ## Preview your site
 
