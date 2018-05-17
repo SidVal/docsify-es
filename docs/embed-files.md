@@ -1,4 +1,4 @@
-# Embed files
+# Archivos Embebidos
 
 !> Este archivo aún no está traducido al español, estamos traduciendo... si gustas, puedes ayudar.
 
